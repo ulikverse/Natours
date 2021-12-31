@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yulii",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.13.2"
+  }
+}
