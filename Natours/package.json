@@ -9,6 +9,7 @@
   "author": "Yulii",
   "license": "ISC",
   "dependencies": {
+    "chokidar": "^3.5.2",
     "core-js": "^3.20.1",
     "jshint": "^2.13.2",
     "live-server": "^1.1.0"
