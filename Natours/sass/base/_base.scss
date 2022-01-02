@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  // This defines what 1erm is going to be
+  /* 10px (which we want) / by 16px (which we need) = 0.625 = 62.5% */
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
