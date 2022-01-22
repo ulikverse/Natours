@@ -4,16 +4,10 @@
   "description": "Landing page for Natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yulii",
   "license": "ISC",
-  "dependencies": {
-    "chokidar": "^3.5.2",
-    "core-js": "^3.20.1",
-    "jshint": "^2.13.2",
-    "live-server": "^1.1.0"
-  },
   "devDependencies": {
     "node-sass": "^7.0.1"
   }
